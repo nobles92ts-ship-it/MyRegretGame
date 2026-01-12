@@ -1,0 +1,14 @@
+f:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.GeneratedMSBuildEditorConfig.editorconfig
+f:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.AssemblyInfoInputs.cache
+f:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.AssemblyInfo.cs
+f:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.csproj.CoreCompileInputs.cache
+F:\gamesailor\강의\MyRegretGame\bin\Debug\net10.0\MyRegretGame.exe
+F:\gamesailor\강의\MyRegretGame\bin\Debug\net10.0\MyRegretGame.deps.json
+F:\gamesailor\강의\MyRegretGame\bin\Debug\net10.0\MyRegretGame.runtimeconfig.json
+F:\gamesailor\강의\MyRegretGame\bin\Debug\net10.0\MyRegretGame.dll
+F:\gamesailor\강의\MyRegretGame\bin\Debug\net10.0\MyRegretGame.pdb
+F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.dll
+F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\refint\MyRegretGame.dll
+F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.pdb
+F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.genruntimeconfig.cache
+F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\ref\MyRegretGame.dll
