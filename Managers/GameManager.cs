@@ -21,16 +21,18 @@ public class GameManager
     public void Run()
     {
         Init();
+        SceneManager.Render(); // 초기 타이틀 화면 표시
+
         while(true)
         {
             InputManager.ReadInput(); // 유저 입력 읽기
 
-            if (InputManager.HasInput()) //유저가 입력한다면 
+            if (InputManager.HasInput()) //유저가 입력한다면
             {
                 SceneManager.Update(); // 구성에 맞게 갱신
-                SceneManager.Render(); // 화면에 출력    
+                SceneManager.Render(); // 화면에 출력
             }
-            
+
             Thread.Sleep(100); // 100ms 딜레이 (초당 10프레임)
         }
     }

@@ -12,3 +12,4 @@ F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\refint\MyRegretGame.dll
 F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.pdb
 F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.genruntimeconfig.cache
 F:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\ref\MyRegretGame.dll
+f:\gamesailor\강의\MyRegretGame\obj\Debug\net10.0\MyRegretGame.sourcelink.json
