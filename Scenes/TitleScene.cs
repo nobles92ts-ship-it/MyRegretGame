@@ -20,7 +20,7 @@ public class TitleScene : Scene
     public override void Render()
     {
         Console.WriteLine("==================================");
-        Console.WriteLine("               VOID               ");
+        Console.WriteLine("              FAUST              ");
         Console.WriteLine("==================================");
         Console.WriteLine();
         Console.WriteLine("Enter : 게임 시작");
